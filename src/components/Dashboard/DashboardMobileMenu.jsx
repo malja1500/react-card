@@ -28,7 +28,7 @@ const DashboardMobileMenu = () => {
         <div className="mt-5 flex flex-col">
           <div className="flex justify-between items-center px-5 mb-3">
             <Link to="/dashboard" className="text-xl font-bold">
-              Card Project
+              REACT CARD
             </Link>
             <div className="darkModeWrapper m-0">
               <DarkModeButton />

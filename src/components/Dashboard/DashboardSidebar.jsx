@@ -9,7 +9,7 @@ const DashboardSidebar = () => {
         <div>
           <div className="flex justify-center items-center mb-8">
             <Link to="/" className="text-center text-xl font-bold">
-              Card Project
+              REACT CARD
             </Link>
             <div className="ml-20">
               <DarkModeButton />

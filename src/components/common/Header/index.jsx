@@ -12,7 +12,7 @@ const Header = () => {
       </div>
       <div className="ml-10 lg:ml-20">
         <Link to="/" className="dark:text-dark text-xl lg:text-2xl font-bold">
-          Card Project
+          MALJA1500 - REACT CARD
         </Link>
       </div>
       <div>

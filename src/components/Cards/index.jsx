@@ -103,8 +103,7 @@ const Cards = () => {
         <div>
           <h2 className="font-bold text-2xl dark:text-dark">Cards Page</h2>
           <p className="text-[#585858] text-sm dark:text-dark">
-            In this page you can see all the cards and edit them and delete
-            them.
+            In this page you can see all the cards or edit them or delete them.
           </p>
         </div>
         <div className="w-full lg:w-auto mt-10 lg:mt-0">
