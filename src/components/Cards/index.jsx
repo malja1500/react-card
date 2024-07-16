@@ -111,7 +111,7 @@ const Cards = () => {
             to="/dashboard/createCard"
             className="bg-primary text-buttonPrimary dark:bg-gray-900 dark:text-dark dark:shadow-darkShadow px-6 py-3 rounded-md"
           >
-            Create Card
+            Create new Card
           </Link>
         </div>
       </div>
